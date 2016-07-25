@@ -1,0 +1,47 @@
+Using Theano backend.
+shape of an input tensor (10000,)
+51853 train samples
+22218 test samples
+Train on 51853 samples, validate on 22218 samples
+Epoch 1/20
+45s - loss: 3.1851 - acc: 0.2871 - val_loss: 2.8009 - val_acc: 0.3562
+Epoch 2/20
+42s - loss: 2.5695 - acc: 0.3749 - val_loss: 2.3491 - val_acc: 0.3695
+Epoch 3/20
+42s - loss: 2.2223 - acc: 0.4521 - val_loss: 2.0224 - val_acc: 0.5161
+Epoch 4/20
+42s - loss: 1.8974 - acc: 0.5366 - val_loss: 1.9193 - val_acc: 0.4756
+Epoch 5/20
+42s - loss: 1.6574 - acc: 0.5946 - val_loss: 1.5105 - val_acc: 0.6212
+Epoch 6/20
+42s - loss: 1.4796 - acc: 0.6367 - val_loss: 1.7232 - val_acc: 0.5735
+Epoch 7/20
+42s - loss: 1.3421 - acc: 0.6649 - val_loss: 1.3393 - val_acc: 0.6297
+Epoch 8/20
+42s - loss: 1.2333 - acc: 0.6888 - val_loss: 1.4180 - val_acc: 0.6275
+Epoch 9/20
+42s - loss: 1.1521 - acc: 0.7056 - val_loss: 1.0064 - val_acc: 0.7523
+Epoch 10/20
+42s - loss: 1.0814 - acc: 0.7220 - val_loss: 0.9835 - val_acc: 0.7448
+Epoch 11/20
+42s - loss: 1.0209 - acc: 0.7358 - val_loss: 0.9881 - val_acc: 0.7521
+Epoch 12/20
+42s - loss: 0.9684 - acc: 0.7482 - val_loss: 0.8796 - val_acc: 0.7771
+Epoch 13/20
+42s - loss: 0.9222 - acc: 0.7605 - val_loss: 0.7968 - val_acc: 0.7996
+Epoch 14/20
+42s - loss: 0.8840 - acc: 0.7701 - val_loss: 0.7625 - val_acc: 0.8049
+Epoch 15/20
+42s - loss: 0.8491 - acc: 0.7784 - val_loss: 0.8148 - val_acc: 0.7917
+Epoch 16/20
+42s - loss: 0.8185 - acc: 0.7864 - val_loss: 0.7716 - val_acc: 0.7965
+Epoch 17/20
+42s - loss: 0.7919 - acc: 0.7939 - val_loss: 0.6808 - val_acc: 0.8276
+Epoch 18/20
+42s - loss: 0.7691 - acc: 0.7971 - val_loss: 0.7109 - val_acc: 0.8203
+Epoch 19/20
+42s - loss: 0.7457 - acc: 0.8054 - val_loss: 0.9254 - val_acc: 0.7624
+Epoch 20/20
+42s - loss: 0.7271 - acc: 0.8081 - val_loss: 0.6713 - val_acc: 0.8240
+Test score: 0.671268575259
+Test accuracy: 0.824016563147
